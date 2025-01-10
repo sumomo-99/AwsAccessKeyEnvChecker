@@ -1,4 +1,4 @@
-# AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY Env Checker
+# envawscli
 環境変数にAWS_ACCESS_KEY_IDとAWS_SECRET_ACCESS_KEYが設定されているかチェックします。
 
 
